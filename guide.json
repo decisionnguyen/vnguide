@@ -2,45 +2,45 @@
   "vi": [
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1FZjvaP3p4O7f6L1xXW29HtbDm8gF2sHp"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/vi/image_1.jpg"
     },
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1QicbxCjJDdN9bn5g_Kd8jYwOu5E1vqiN"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/vi/image_2.jpg"
     },
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1BrPQpdfsGu9VbPVzWhzEIE9RQvHzQ0ay"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/vi/image_3.jpg"
     },
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1r-xhCjVdiyyMXTNJwwVfNC0DGvJ-1K6r"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/vi/image_4.jpg"
     },
     {
       "type": "video",
-      "url": "https://docs.google.com/uc?id=10DEpU2T2GMgnlIuFMT3M3-ITj8era6SC"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/vi/video.mp4"
     }
   ],
   "en": [
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1FZjvaP3p4O7f6L1xXW29HtbDm8gF2sHp"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/en/image_1.jpg"
     },
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1QicbxCjJDdN9bn5g_Kd8jYwOu5E1vqiN"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/en/image_2.jpg"
     },
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1BrPQpdfsGu9VbPVzWhzEIE9RQvHzQ0ay"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/en/image_3.jpg"
     },
     {
       "type": "image",
-      "url": "https://docs.google.com/uc?id=1r-xhCjVdiyyMXTNJwwVfNC0DGvJ-1K6r"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/en/image_4.jpg"
     },
     {
       "type": "video",
-      "url": "https://docs.google.com/uc?id=10DEpU2T2GMgnlIuFMT3M3-ITj8era6SC"
+      "url": "https://github.com/decisionnguyen/vnguide/raw/master/en/video.mp4"
     }
   ]
 }
